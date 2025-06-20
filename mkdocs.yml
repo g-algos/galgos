@@ -25,6 +25,8 @@ nav:
 plugins:
   - search
   - meta
+  - include-markdown
+  - macros
 
 watch:
   - layouts
