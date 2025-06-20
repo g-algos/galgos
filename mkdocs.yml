@@ -1,12 +1,18 @@
-site_name: Social Cards Template
-site_url: https://www.example.com
+site_name: G.algos
+site_url: https://g-algos.com
 
 theme:
   name: material
+  palette:
+    primary: deep purple
+    accent: yellow
+  font:
+    text: Comfortaa
+  favicon: assets/GA.png
+  logo: assets/Galgo_32.svg
   custom_dir: overrides
   icon:
-    logo: logo-monochrome
-  
+    logo: Galgo_32.svg
 
 plugins:
   - search
