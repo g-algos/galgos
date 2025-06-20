@@ -13,16 +13,18 @@ theme:
   custom_dir: overrides
   icon:
     logo: Galgo_32.svg
-
+extra_css:
+  - assets/css/custom.css
+nav:
+  - Intro: index.md
+  - G.plus:
+      - Overview: G.plus/Intro.md
+      - Data Links: G.plus/DataLinks.md
+      - Location Schemes: G.plus/LocalizationSchemas.md
+      - Releases: G.plus/changelog.md
 plugins:
   - search
   - meta
-  - social:
-      cards_layout: default/variant
-      cards_layout_options:
-        background_image: layouts/background_normal.png
-        background_color: transparent
-      cards_layout_dir: layouts
 
 watch:
   - layouts
