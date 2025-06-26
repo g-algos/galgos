@@ -20,6 +20,5 @@ Apply custom color schemes to Revit views based on, any data-driven criteria rel
 - **More Control**: Keep your Excel workflows alive while staying BIM-compliant.  
 - **Made for AEC**: Designed by people who live and breathe Revit every day.  
 
-`G.plus is free and open source.`
-
+>[G.plus is free and open source](https://github.com/amilcarRF/G.Plus)  
 Your data, your way — fully visual, fully connected.
