@@ -22,6 +22,7 @@ nav:
       - Data Links: G.plus/DataLinks.md
       - Location Schemes: G.plus/LocalizationSchemas.md
       - Releases: G.plus/changelog.md
+      - Privacy Policy: G.plus/PrivacyPolicy.md
 plugins:
   - search
   - meta

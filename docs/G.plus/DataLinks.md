@@ -57,9 +57,9 @@ This opens the **New Data Link** dialog:
 ### Finalize the Link
 
 Once all fields are configured:
-- Click the **OK** button (purple circle) to create the link.
-- The new link will appear in the **Manage Data Links** table, ready for push/pull/sync actions.
-- The data will be pushed to the linked Excel file.
+- Click the **OK** button (purple circle) to create the link.  
+- The new link will appear in the **Manage Data Links** table, ready for push/pull/sync actions.  
+- The data will be pushed to the linked Excel file.  
 ---
 
 > 💡 You can create an Instance and a Type link for the same schedule.  
@@ -81,8 +81,8 @@ Once all fields are configured:
   - **Remove elements** by deleting rows
 
 - **Dynamic Column Mapping**  
-  If you **add new columns** in the Excel sheet, G.plus will prompt you to:
-  - **Map them** to existing parameters, or
+  If you **add new columns** in the Excel sheet, G.plus will prompt you to:  
+  - **Map them** to existing parameters, or  
   - **Create new shared parameters** automatically
 ---
 
@@ -98,17 +98,17 @@ This ensures you don’t have to overwrite everything — just what matters.
 
 ### How it Works
 
-- **Left Panel**: Shows the current data from the **Revit model**
-- **Right Panel**: Displays the data from the **Excel file**
+- **Left Panel**: Shows the current data from the **Revit model**  
+- **Right Panel**: Displays the data from the **Excel file**  
 
 Each row represents differences in elements (e.g., Room, Space, Area, or Sheet) being compared across both sources.
 
 ### Manual Conflict Resolution
 
-- Use the **checkboxes** to manually select which rows to update.
-- You can decide **line-by-line** whether to:
-  - **Push** changes from Revit → Excel
-  - **Pull** changes from Excel → Revit
+- Use the **checkboxes** to manually select which rows to update.  
+- You can decide **line-by-line** whether to:  
+  - **Push** changes from Revit → Excel  
+  - **Pull** changes from Excel → Revit  
 
 This selective approach gives you **granular control**, avoiding full overwrites and reducing the risk of data loss.
 
