@@ -28,6 +28,7 @@ plugins:
   - meta
   - include-markdown
   - macros
-
+include:
+  - standards/schemas/bsd.1.0.xsd
 watch:
   - layouts
