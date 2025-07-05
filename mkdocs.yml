@@ -23,12 +23,17 @@ nav:
       - Location Schemes: G.plus/LocalizationSchemas.md
       - Releases: G.plus/changelog.md
       - Privacy Policy: G.plus/PrivacyPolicy.md
+  - BDS:
+      - Overview: BDS/Intro.md
+      - Scheme: BDS/Scheme.md
+  - G.BDS.Manager:
+      - Overview: G.BDS.Manager/Intro.md
+      - Main Features: G.BDS.Manager/MainFeatures.md
 plugins:
   - search
   - meta
   - include-markdown
   - macros
-include:
-  - standards/schemas/bsd.1.0.xsd
+
 watch:
   - layouts
