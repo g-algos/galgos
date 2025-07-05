@@ -2,26 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://g-algos.com/</loc>
-         <lastmod>2025-06-27</lastmod>
+         <lastmod>2025-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://g-algos.com/BDS/Intro/</loc>
+         <lastmod>2025-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://g-algos.com/BDS/Scheme/</loc>
+         <lastmod>2025-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://g-algos.com/G.BDS.Manager/Intro/</loc>
+         <lastmod>2025-07-05</lastmod>
+    </url>
+    <url>
+         <loc>https://g-algos.com/G.BDS.Manager/MainFeatures/</loc>
+         <lastmod>2025-07-05</lastmod>
     </url>
     <url>
          <loc>https://g-algos.com/G.plus/DataLinks/</loc>
-         <lastmod>2025-06-27</lastmod>
+         <lastmod>2025-07-05</lastmod>
     </url>
     <url>
          <loc>https://g-algos.com/G.plus/Intro/</loc>
-         <lastmod>2025-06-27</lastmod>
+         <lastmod>2025-07-05</lastmod>
     </url>
     <url>
          <loc>https://g-algos.com/G.plus/LocalizationSchemas/</loc>
-         <lastmod>2025-06-27</lastmod>
+         <lastmod>2025-07-05</lastmod>
     </url>
     <url>
          <loc>https://g-algos.com/G.plus/PrivacyPolicy/</loc>
-         <lastmod>2025-06-27</lastmod>
+         <lastmod>2025-07-05</lastmod>
     </url>
     <url>
          <loc>https://g-algos.com/G.plus/changelog/</loc>
-         <lastmod>2025-06-27</lastmod>
+         <lastmod>2025-07-05</lastmod>
     </url>
 </urlset>
