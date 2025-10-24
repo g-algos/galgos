@@ -1,60 +1,33 @@
-﻿# Location Schemes
-![Apply Scheme to View](../assets/images/LocationSchemes.png)  
-Lets users visually identify elements by assigning **colors** based on the value of a selected **parameter**.
+﻿# File Versioning
 
-## Manage Location Schemes
+The **File Versioning** feature allows users to track different versions of a document, visualize changes in 3D objects, and generate reports highlighting the differences between the current document state and previous versions.  
+![Manage Data Links](../assets/images/FileVersioning.png)
 
-![Manage Location Schemes](../assets/images/ManageLocations.png)
+## Save Version
 
-- **Left panel**: list of existing location schemes  
-- **Right table**:  
-  - Lists all **unique values** found for the selected parameter  
-  - Assigns **colors** and **fill patterns** to each value  
+The **Save Version** command saves the current state of the document as a new version. This allows users to preserve progress and create checkpoints for comparison later.
 
-** Actions:**
-- Add new scheme  
-- Remove selected scheme  
-- Force refresh in case the model has changed (e.g. new values added)  
-- Expand side panel to edit scheme details  
+## Version History
 
----
+The **Version History** command opens a window where users can view all previously saved versions of the current document and inspect the differences.  
+![Manage Data Links](../assets/images/VersionHistory.png)
 
-## New Location Scheme Setup
-![Manage Location Schemes](../assets/images/NewLocationSchema.png)
-- **Name** of the scheme  
-- Whether to include elements from **linked models**  
-- Scheme type:  
-  - 🔘 `By Value`: for nominal/text values (e.g. Type Name)  
-  - 🔘 `By Range`: for numeric values (e.g. Volume, Area), grouped in steps  
-- **Categories** to include (e.g. Walls, Doors, Floors)  
-- The **parameter** to use for classification  
+### Version List
 
-💡 The system automatically generates color assignments for each value or range.
+The **Version List** displays all saved versions of the document. Users can select any version to compare it with the current document state.
 
----
+### Main Table
 
-## Apply Scheme to View
-![Apply Scheme to View](../assets/images/ApplyScheme.png)
+The main table shows all **modified 3D elements**:
 
-- Simple scheme picker window    
-- Toggle which schemes are active    
-- Elements are **visually highlighted** based on their assigned values  
-- The view will retain the visual overrides defined by the active schemes.
+- **Green** — Elements that were added.
+- **Red** — Elements that were removed.
 
-> ⚠️ **Note:** Schemes can only be applied to views of type **Floor Plan**, **Section**, **3D**, or **Drafting**.
- 
-> 💡 To reflect recent changes (e.g. edited or newly added values), reopen the scheme picker or use the **Force Refresh** button in the **Manage Location Schemes** window.
-> 💡 If an element is updated with a value that doesn't yet exist in the scheme, you must refresh the scheme to ensure it gets correctly classified and displayed.
+Each row represents a single changed element, allowing users to quickly identify what has been modified.
 
+### Right-side Actions
 
----
-
-## Use Case Examples
-
->- Visual breakdown of window/door types  
->- Area range highlighting for space planning  
->- Fire-rating visualization for walls  
->- QA/QC on Type Marks and other classifications  
-
----
-
+- **View** — Opens a new 3D view highlighting the changes: modified elements in **yellow**, newly added elements in **green**.
+![Manage Data Links](../assets/images/VersionView.png)
+- **Export** — Generates a report of all changes in **.xlsx** format for documentation or sharing purposes.  
+![Manage Data Links](../assets/images/VersionReport.png)
