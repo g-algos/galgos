@@ -53,13 +53,13 @@ This turns complex model data into clean, structured, and predictable tabular ou
 
 | Feature                 | Description                                                                 |
 |------------------------|-----------------------------------------------------------------------------|
-| 📂 Open Config File    | Load a `.bds.config` file to access its project metadata, models, and BDS link |
-| 🆕 Create New Project   | Set up a new configuration with editable project fields                      |
-| 🧾 Define Schedules     | Create and manage schedule templates using a visual editor                   |
-| 📤 Export to Excel      | Export any schedule into a clean `.xlsx` file with header styling            |
-| 🏗️ Assign IFC Models   | Link one or more BIM models (IFC) to be used as data sources                  |
-| 🧠 Project Metadata     | Store information like project name, address, organization, issue dates, etc.|
-| 🔍 Filter and Sort Data | Apply complex filters (e.g., regex, BETWEEN, IS NULL) and custom sort orders |
+| Open Config File    | Load a `.bds.config` file to access its project metadata, models, and BDS link |
+| Create New Project   | Set up a new configuration with editable project fields                      |
+| Define Schedules     | Create and manage schedule templates using a visual editor                   |
+| Export to Excel      | Export any schedule into a clean `.xlsx` file with header styling            |
+| Assign IFC Models   | Link one or more BIM models (IFC) to be used as data sources                  |
+| Project Metadata     | Store information like project name, address, organization, issue dates, etc.|
+| Filter and Sort Data | Apply complex filters (e.g., regex, BETWEEN, IS NULL) and custom sort orders |
 
 G.DataManager offers a user-friendly interface with categorized navigation, tree views for hierarchy management, and rich dialogs for editing configuration content.
 

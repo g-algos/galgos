@@ -21,6 +21,7 @@ nav:
       - Overview: G.plus/Intro.md
       - Data Links: G.plus/DataLinks.md
       - Location Schemes: G.plus/LocalizationSchemas.md
+      - File Version: G.plus/FileVersioning.md
       - Releases: G.plus/changelog.md
       - Privacy Policy: G.plus/PrivacyPolicy.md
   - BDS:
