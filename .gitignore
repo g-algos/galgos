@@ -2,7 +2,6 @@ site
 *~
 __pycache__
 .cache
-/.vs/slnx.sqlite
 /.vs
 /.vs/galgos
 /.vs/galgos/CopilotIndices/17.14.1091.29919
@@ -18,7 +17,6 @@ __pycache__
 /.vs/galgos/FileContentIndex/5ac39793-b825-470c-a423-6c18818949a7.vsidx
 /.vs/galgos/FileContentIndex/d829e137-d481-499b-b6e7-131fd8a71d31.vsidx
 /.vs/galgos/FileContentIndex/e9a76999-19ee-46f3-b1c3-3417e54b1c14.vsidx
-/.vs/slnx.sqlite-journal
 /.vs/galgos/CopilotIndices/17.14.1091.29919/CodeChunks.db
 /.vs/galgos/CopilotIndices/17.14.1091.29919/CodeChunks.db-shm
 /.vs/galgos/CopilotIndices/17.14.1091.29919/CodeChunks.db-wal
@@ -26,12 +24,5 @@ __pycache__
 /.vs/galgos/CopilotIndices/17.14.1091.29919/SemanticSymbols.db-shm
 /.vs/galgos/CopilotIndices/17.14.1091.29919/SemanticSymbols.db-wal
 /.vs/galgos/FileContentIndex/53a0fcaf-c10d-47b0-8441-c8b3d2d1953c.vsidx
-/.vs/galgos/v17/.wsuo
 /.vs/galgos/v17/DocumentLayout.backup.json
-/.vs/galgos/v17/DocumentLayout.json
 /.vs/galgos/FileContentIndex
-/.vs/slnx.sqlite
-/.vs/slnx.sqlite-journal
-/.vs/VSWorkspaceState.json
-/.vs/slnx.sqlite
-/.vs/VSWorkspaceState.json
