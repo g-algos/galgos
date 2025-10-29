@@ -14,3 +14,10 @@ Spend less time on repetitive work, and more on critical design decisions.
 `G.algos is 100% free and fully open source.  
 Help us grow — contribute, report issues, share with your network, or buy us a coffee to support infrastructure.`
 
+
+<div style="text-align: center;">
+Let’s build better tools together.
+</div>
+<div style="text-align: center;">
+{% include "../overrides/partials/stripe.html" %}
+</div>
