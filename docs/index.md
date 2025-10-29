@@ -19,5 +19,6 @@ Help us grow — contribute, report issues, share with your network, or buy us a
 Let’s build better tools together.
 </div>
 <div style="text-align: center;">
-{% include stripe.html %}
+{% include "../overrides/partials/stripe.html" %}
 </div>
+
