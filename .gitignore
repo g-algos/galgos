@@ -2,3 +2,6 @@ site
 *~
 __pycache__
 .cache
+/.vs/galgos/FileContentIndex
+/.vs/galgos/CopilotIndices/17.14.1091.29919
+/.vs/galgos/config
