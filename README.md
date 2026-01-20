@@ -1,4 +1,4 @@
-# A Material for Mkdocs Social Cards Template
+ A Material for Mkdocs Social Cards Template
 
 The purpose of the template in this repository is to give you a starting point
 for setting up social cards for your projects, both standard ones and custom
